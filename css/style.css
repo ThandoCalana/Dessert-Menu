@@ -51,6 +51,7 @@ hr {
 }
 
 .oreo {
+  background-image: url(Images/Dessert-1.jpg);
   float: right;
   width: 300px;
   border-radius: 15%;
