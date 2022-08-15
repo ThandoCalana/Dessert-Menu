@@ -1,0 +1,72 @@
+body {
+background-color: #F7ECDE;
+margin: 0;
+}
+
+div{
+  text-align: center;
+}
+
+.div-1 {
+  margin:50px;
+}
+
+.pre-class {
+  margin:0 auto ;
+}
+
+.div-3 {
+  margin:50px 0;
+}
+h3 {
+  text-align: center;
+  font-family: 'Playball', cursive;
+  font-size: 1.5rem;
+  clear: both;
+  margin: 0 auto 1.5rem auto;
+}
+
+.div-2 {
+  text-align: center;
+  width: 65%;
+  margin: 100px auto;
+}
+
+hr {
+  border: 6px dotted #F65A83;
+  border-bottom: none;
+  width: 10%;
+}
+
+.dessert {
+  max-height: 600px;
+  max-width: 400px;
+  margin-bottom: 30px;
+}
+
+.ice-cream {
+  float: left;
+  width: 25%;
+  border-radius: 40%;
+}
+
+.oreo {
+  float: right;
+  width: 300px;
+  border-radius: 15%;
+  height: 400px;
+
+}
+
+.crepe {
+  float:left;
+  width: 25%;
+  border-radius: 20%;
+
+}
+
+.img-text {
+  text-align: left;
+  margin: auto;
+  width: 30%;
+}
